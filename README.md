@@ -24,4 +24,4 @@ This is an individual project named as Movie Ticket Booking Application which is
 - Spring Security
 - MySQL
 
-# Swagger
+# Swagger-ui
