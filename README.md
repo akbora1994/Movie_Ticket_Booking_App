@@ -11,7 +11,7 @@ This is an individual project named as Movie Ticket Booking Application which is
 - Get available seats, Book multiple seats
 # Backend Work
 
-- Built authentication while login and logout using Spring security
+- Built authentication while login and logout using Spring Security
 - Data Stored on MySQL
 - Input Validation.
 # Technology Used
