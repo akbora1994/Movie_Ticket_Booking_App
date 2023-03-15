@@ -7,7 +7,7 @@ This is an individual project named as Movie Ticket Booking Application which is
 - User login/signUp
 - Get all Movies
 - Confirm Booking
-- Get shows for Movies
+- Get Shows for Movies
 - Get available seats, Book multiple seats
 # Backend Work
 
